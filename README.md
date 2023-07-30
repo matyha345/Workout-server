@@ -1,8 +1,8 @@
-<h1 align="center">Workout App v2</h1>
+<h1 align="center">Workout-Server</h1>
 <div display="flex" justify-content="center" >
 <img src="./public/wApp.svg" alt="Alt Text" width="80" height="80">
 
-<h2>Добро пожаловать в репозиторий Workout App v2</h2>
+<h2>Добро пожаловать в репозиторий Workout-Server</h2>
 
 *Этот проект является серверной частью приложения Workout.*
 
