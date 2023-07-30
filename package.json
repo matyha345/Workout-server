@@ -12,7 +12,7 @@
 		"workout",
 		"app"
 	],
-	"author": "Nikolay_Matyukhin_matyha345",
+	"author": "Nikolay_Matyukhin",
 	"license": "ISC",
 	"devDependencies": {
 		"@trivago/prettier-plugin-sort-imports": "^4.0.0",
